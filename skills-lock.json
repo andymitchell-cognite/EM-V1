@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "cognite": {
+      "source": "docs.cognite.com",
+      "sourceUrl": "https://docs.cognite.com",
+      "sourceType": "well-known",
+      "computedHash": "866e8553eed54fee0905b21303dde4591e6a1d83493db8f48ddc5bb4d2833ab7",
+      "wellKnownDigest": "sha256:2e1302f075ca4cf907bbebf60f376afe813637296e12c529a91c08888cc1ed70"
+    }
+  }
+}
